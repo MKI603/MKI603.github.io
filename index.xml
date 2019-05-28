@@ -6,9 +6,32 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 19:09:39 +0800</lastBuildDate>
     
 	<atom:link href="http://MKI603.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>http://MKI603.github.io/post/test/</link>
+      <pubDate>Tue, 28 May 2019 19:09:39 +0800</pubDate>
+      
+      <guid>http://MKI603.github.io/post/test/</guid>
+      <description> test test test test def cla(): print(&#39;test&#39;)  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://MKI603.github.io/about/</link>
+      <pubDate>Tue, 28 May 2019 19:05:46 +0800</pubDate>
+      
+      <guid>http://MKI603.github.io/about/</guid>
+      <description>2016.7.21 它的时间线都到了尽头
+这是它的结局，也是我的预告
+Mki603 或者 静岳
+一个信息安全/密码学/沙雕开发 爱好者
+热爱生活，反对挑食。</description>
+    </item>
     
   </channel>
 </rss>
